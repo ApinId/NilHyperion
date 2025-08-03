@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 12,
+    "used": false,
+    "claimed_at": null,
+    "created_at": "2025-08-03T06:02:57.478",
+    "created_by": "969877800746123284",
+    "code": "standard_JmcJI32YSP7fGXncqkLlGJvqr6afLHm9Siw/Xt3fDvzLuBbKdx",
+    "claimed_by": null,
+    "user_id": null,
+    "key": null,
+    "type": "standard"
+  },
+  {
+    "id": 13,
+    "used": false,
+    "claimed_at": null,
+    "created_at": "2025-08-03T06:03:05.376",
+    "created_by": "969877800746123284",
+    "code": "premium_82PRFs+Mqt8zke+5SFulkwYW/fA+XnF05g4qKyDM+SYjDGWpbU",
+    "claimed_by": null,
+    "user_id": null,
+    "key": null,
+    "type": "premium"
+  },
+  {
+    "id": 11,
+    "used": true,
+    "claimed_at": "2025-08-03T06:33:57.656+00:00",
+    "created_at": "2025-08-03T06:02:46.48",
+    "created_by": "969877800746123284",
+    "code": "ultimate_zSwBklVna5ZavaFCyxw13bGMHbIDxEjKsI2kk6Ae30b0gNxj61",
+    "claimed_by": "969877800746123284",
+    "user_id": null,
+    "key": null,
+    "type": "ultimate"
+  }
+]
