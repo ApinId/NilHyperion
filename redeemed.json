@@ -1,14 +1,5 @@
 [
   {
-    "roblox_id": 1859571298,
-    "linked_at": "2025-08-03T13:47:02.687",
-    "redeemed_at": "2025-08-03T13:46:40.592",
-    "discord_id": "743729823855149097",
-    "roblox_username": "VUNNYDARAT",
-    "code": "ultimate_NWIPqYtNAnBhJP0K9Yh3P+rl7hrV17HYyRv4BsRuJiL0vhR0KA",
-    "plan": "ultimate"
-  },
-  {
     "roblox_id": 8949309334,
     "linked_at": "2025-08-05T06:02:02.589",
     "redeemed_at": "2025-08-03T06:33:57.842",
@@ -24,6 +15,15 @@
     "discord_id": "1202418171903221811",
     "roblox_username": null,
     "code": "ultimate_ICozqyu3Jm4kPR8j/yx2VWblgzaxnFOIqvQat8AymJaxjgm6W3",
+    "plan": "ultimate"
+  },
+  {
+    "roblox_id": 1859571298,
+    "linked_at": "2025-08-05T11:27:38.782",
+    "redeemed_at": "2025-08-03T13:46:40.592",
+    "discord_id": "743729823855149097",
+    "roblox_username": "VUNNYDARAT",
+    "code": "ultimate_NWIPqYtNAnBhJP0K9Yh3P+rl7hrV17HYyRv4BsRuJiL0vhR0KA",
     "plan": "ultimate"
   }
 ]
